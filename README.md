@@ -8,11 +8,11 @@
 
 ### 目录
 
-#### [1. 零基础入门深度学习 - 感知器](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.md)
-#### [2. 零基础入门深度学习 - 线性单元和梯度下降](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.md)
-#### [3. 零基础入门深度学习 - 神经网络和反向传播算法 ](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.md)
-#### [4. 零基础入门深度学习 - 卷积神经网络 ](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.md)
-#### [5. 零基础入门深度学习 - 循环神经网络 ](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.md)
-#### [6. 零基础入门深度学习 - 长短时记忆网络(LSTM) ](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.md)
-#### [7. 零基础入门深度学习 - 递归神经网络](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.md)
+#### [1. 零基础入门深度学习 - 感知器](https://www.zybuluo.com/hanbingtao/note/433855)
+#### [2. 零基础入门深度学习 - 线性单元和梯度下降](https://www.zybuluo.com/hanbingtao/note/448086)
+#### [3. 零基础入门深度学习 - 神经网络和反向传播算法 ](https://www.zybuluo.com/hanbingtao/note/476663)
+#### [4. 零基础入门深度学习 - 卷积神经网络 ](https://www.zybuluo.com/hanbingtao/note/485480)
+#### [5. 零基础入门深度学习 - 循环神经网络 ](https://zybuluo.com/hanbingtao/note/541458)
+#### [6. 零基础入门深度学习 - 长短时记忆网络(LSTM) ](https://zybuluo.com/hanbingtao/note/581764)
+#### [7. 零基础入门深度学习 - 递归神经网络](https://zybuluo.com/hanbingtao/note/626300)
 
