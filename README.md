@@ -8,11 +8,11 @@
 
 ## 目录
 
-> 1.[感知器](1. 感知器.md)
-> 2.线性单元和梯度下降
-> 3.神经网络和反向传播算法 
-> 4.卷积神经网络 
-> 5.循环神经网络 
-> 6.长短时记忆网络(LSTM) 
-> 7.递归神经网络
+### [1.感知器](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.mdd)
+### [2.线性单元和梯度下降](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.mdd)
+### [3.神经网络和反向传播算法 ](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.mdd)
+### [4.卷积神经网络 ](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.mdd)
+### [5.循环神经网络 ](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.mdd)
+### [6.长短时记忆网络(LSTM) ](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.mdd)
+### [7.递归神经网络](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.mdd)
 
