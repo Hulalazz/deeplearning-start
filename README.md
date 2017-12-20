@@ -8,11 +8,11 @@
 
 ### 目录
 
-#### [零基础入门深度学习 1.感知器](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.mdd)
-#### [零基础入门深度学习 2.线性单元和梯度下降](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.mdd)
-#### [零基础入门深度学习 3.神经网络和反向传播算法 ](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.mdd)
-#### [零基础入门深度学习 4.卷积神经网络 ](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.mdd)
-#### [零基础入门深度学习 5.循环神经网络 ](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.mdd)
-#### [零基础入门深度学习 6.长短时记忆网络(LSTM) ](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.mdd)
-#### [零基础入门深度学习 7.递归神经网络](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.mdd)
+#### [1. 零基础入门深度学习 - 感知器](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.md)
+#### [2. 零基础入门深度学习 - 线性单元和梯度下降](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.md)
+#### [3. 零基础入门深度学习 - 神经网络和反向传播算法 ](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.md)
+#### [4. 零基础入门深度学习 - 卷积神经网络 ](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.md)
+#### [5. 零基础入门深度学习 - 循环神经网络 ](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.md)
+#### [6. 零基础入门深度学习 - 长短时记忆网络(LSTM) ](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.md)
+#### [7. 零基础入门深度学习 - 递归神经网络](https://github.com/OsForChaoJia/deeplearning-start/blob/master/1.%20%E6%84%9F%E7%9F%A5%E5%99%A8.md)
 
